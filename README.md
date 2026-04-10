@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio Website - CSS Web Project
 
 ## Overview
@@ -39,3 +40,6 @@ A responsive personal portfolio website built with HTML and CSS. This project sh
 ## Browser Support
 - Modern browsers (Chrome, Firefox, Safari, Edge)
 - Mobile responsive for all screen sizes
+=======
+# CSS-website-lab
+>>>>>>> e980b9c6813bcfa5b7233129c6e8c1e048af711a
