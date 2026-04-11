@@ -29,16 +29,6 @@ A responsive personal portfolio website built with HTML and CSS. This project sh
 - Mobile breakpoints for tablets and phones
 - Smooth transitions and hover effects
 
-## Customization
-- Update name in header (`<h1 class="name">`)
-- Replace GitHub URL in navigation link
-- Add or remove project cards in the projects grid
-- Modify color scheme in CSS variables or hex colors
-- Update skills list in the About Me section
-
 ## Browser Support
 - Modern browsers (Chrome, Firefox, Safari, Edge)
 - Mobile responsive for all screen sizes
-=======
-# CSS-website-lab
->>>>>>> e980b9c6813bcfa5b7233129c6e8c1e048af711a
